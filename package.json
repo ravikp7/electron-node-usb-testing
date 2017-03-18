@@ -1,0 +1,16 @@
+{
+  "name": "electron-node-usb",
+  "version": "1.0.0",
+  "main": "./main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "usb": "^1.2.0"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "electron-rebuild": "^1.5.7",
+    "usb": "^1.2.0"
+  }
+}
