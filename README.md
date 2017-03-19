@@ -9,3 +9,5 @@ electron-packager electron-node-usb electron-node-usb --platform=linux --arch=x6
 
 For OSX, platform=darwin
 For Windows, platform=win32
+
+Packaged app here https://goo.gl/bqUClN
