@@ -11,3 +11,5 @@ For OSX, platform=darwin
 For Windows, platform=win32
 
 Packaged app here https://goo.gl/bqUClN
+
+<img src="img.png">
